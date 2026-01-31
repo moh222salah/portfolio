@@ -1,0 +1,15 @@
+# robots.txt for Elite Full-Stack Developer Portfolio
+# https://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+Allow: /
+
+# Disallow admin or private areas (if any)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Sitemap location
+Sitemap: https://moh222salah.github.io/sitemap.xml
+
+# Crawl delay (optional - be polite to search engines)
+# Crawl-delay: 10
